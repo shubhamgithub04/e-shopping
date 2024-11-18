@@ -19,18 +19,19 @@ https://reactjs-ecommerce-app.vercel.app/
 
 
 
-## Run Locally
+## Run Locallygit init
+
 
 Clone the project
 
 ```bash
-  git clone https://github.com/ssahibsingh/React_E-Commerce
+  git clone 
 ```
 
 Go to the project directory
 
 ```bash
-  cd React_E-Commerce
+  cd e-shopping
 ```
 
 Install dependencies
@@ -62,6 +63,6 @@ Just raise an issue, we will discuss it.
 
 ## Feedback
 
-If you have any feedback, please reach out to me [here](https://ssahibsingh.github.io/#contact)
+If you have any feedback, please reach out to me [here](https://www.linkedin.com/in/shubham-sutar-358277223/)
 
 
